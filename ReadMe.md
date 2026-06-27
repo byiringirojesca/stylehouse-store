@@ -265,31 +265,40 @@ The following features can be added in future versions:
 
 ## Homepage
 
-> Insert homepage screenshot here.
+![Homepage](screenshots/homepage.png)
 
 ---
 
 ## Shop Page
 
-> Insert shop page screenshot here.
+![Shop Page](screenshots/shop-page.png)
 
 ---
 
 ## Product Details Page
 
-> Insert product details screenshot here.
+![Product Details](screenshots/product-page.png)
 
 ---
 
 ## Shopping Cart
 
-> Insert shopping cart screenshot here.
+![Product Details Page](screenshots/product-details.png)
 
 ---
 
-## Checkout Page
+## About us Page
 
-> Insert checkout screenshot here.
+![About Us Page](screenshots/about-us.png)
+---
+
+## contact us Page
+
+![Contact Us Page](screenshots/contact-us.png)
+
+## contact us Page
+
+![Product Details with Cart Page](screenshots/prod-details-with-cart.png)
 
 ---
 
@@ -297,14 +306,16 @@ The following features can be added in future versions:
 
 ## Live Website
 
+```
 https://live-styles-store.pantheonsite.io/
 
 
 
 ---
 
-## GitHub Repository
 
+## GitHub Repository
+```
 https://github.com/byiringirojesca/stylehouse-store
 
 
