@@ -305,6 +305,7 @@ The following features can be added in future versions:
 ```
 https://live-styles-store.pantheonsite.io/
 
+```
 ---
 
 
@@ -312,7 +313,7 @@ https://live-styles-store.pantheonsite.io/
 ## GitHub Repository
 ```
 https://github.com/byiringirojesca/stylehouse-store
-
+```
 
 ---
 
