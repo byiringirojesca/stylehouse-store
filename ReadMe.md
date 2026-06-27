@@ -265,40 +265,34 @@ The following features can be added in future versions:
 
 ## Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](/screenshots/homepage.png)
 
 ---
 
 ## Shop Page
 
-![Shop Page](screenshots/shop-page.png)
-
----
-
-## Product Details Page
-
-![Product Details](screenshots/product-page.png)
+![Shop Page](/screenshots/shop-page.png)
 
 ---
 
 ## Shopping Cart
 
-![Product Details Page](screenshots/product-details.png)
+![Product Details Page](/screenshots/product-details.png)
 
 ---
 
 ## About us Page
 
-![About Us Page](screenshots/about-us.png)
+![About Us Page](/screenshots/about-us.png)
 ---
 
 ## contact us Page
 
-![Contact Us Page](screenshots/contact-us.png)
+![Contact Us Page](/screenshots/contact-us.png)
 
 ## contact us Page
 
-![Product Details with Cart Page](screenshots/prod-details-with-cart.png)
+![Product Details with Cart Page](/screenshots/prod-details-with-cart.png)
 
 ---
 
@@ -309,9 +303,8 @@ The following features can be added in future versions:
 ```
 https://live-styles-store.pantheonsite.io/
 
-
-
 ---
+
 
 
 ## GitHub Repository
