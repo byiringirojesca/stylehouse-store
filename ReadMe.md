@@ -265,37 +265,39 @@ The following features can be added in future versions:
 
 ## Homepage
 
-![Homepage](/screenshots/homepage.png)
+![Homepage](https://raw.githubusercontent.com/byiringirojesca/stylehouse-store/main/screenshots/homepage.PNG)
 
 ---
 
 ## Shop Page
 
-![Shop Page](/screenshots/shop-page.png)
+![Shop Page](https://raw.githubusercontent.com/byiringirojesca/stylehouse-store/main/screenshots/shop-page.PNG)
 
 ---
 
 ## Shopping Cart
 
-![Product Details Page](/screenshots/product-details.png)
+![Product Details with Cart Page](https://raw.githubusercontent.com/byiringirojesca/stylehouse-store/main/screenshots/prod-details-with-cart.PNG)
 
 ---
 
-## About us Page
+## About Us Page
 
-![About Us Page](/screenshots/about-us.png)
----
-
-## contact us Page
-
-![Contact Us Page](/screenshots/contact-us.png)
-
-## contact us Page
-
-![Product Details with Cart Page](/screenshots/prod-details-with-cart.png)
+![About Us Page](https://raw.githubusercontent.com/byiringirojesca/stylehouse-store/main/screenshots/about-us.PNG)
 
 ---
 
+## Contact Us Page
+
+![Contact Us Page](https://raw.githubusercontent.com/byiringirojesca/stylehouse-store/main/screenshots/contact-us.PNG)
+
+---
+
+## Product Details Page
+
+![Product Details Page](https://raw.githubusercontent.com/byiringirojesca/stylehouse-store/main/screenshots/product-details.PNG)
+
+---
 # Project Links
 
 ## Live Website
